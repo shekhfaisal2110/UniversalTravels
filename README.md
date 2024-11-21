@@ -51,6 +51,14 @@ To view the project, ensure you have:
  - Faisal
  - Vyom
 
+---
+## Screenshots
+
+![App Screenshot](https://github.com/shekhfaisal2110/UniversalTravels/blob/ffeda04ce597bc38452a811fb42e8661c3460c24/screenshot/d1.png)
+
+![App Screenshot](https://github.com/shekhfaisal2110/UniversalTravels/blob/ffeda04ce597bc38452a811fb42e8661c3460c24/screenshot/d2.png)
+
+---
 ### Installation
 
 1. Clone the repository:
