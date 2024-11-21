@@ -34,7 +34,7 @@
 
 To view the project, ensure you have:
 - A web browser.
-- A local development server such as [Live Server](https://shekhfaisal2110.github.io/UniversalTravels/).
+- A local development server such as [Live Server](https://shekhfaisal2110.github.io/UniversalTravels/).(only for a Destop)
 
 ---
 
